@@ -1,3 +1,6 @@
-# File Metadata Microservice
+# File Metadata Microservice from FCC
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+## Description:
+
+This is the develop of the File Metadata Microservice as part of the FreeCodeCamp curriculum.
+
